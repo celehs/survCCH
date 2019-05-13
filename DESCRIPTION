@@ -1,0 +1,19 @@
+Package: survCCH
+Title: Survival Analysis with Data from Case-Cohort Studies
+Version: 0.1.0
+Authors@R: c(
+    person("Ming", "Yang", role = c("aut", "cre"), email = "mingyang@biostatstudio.com"),
+    person("Denis", "Agniel", role = "aut"),
+    person("Tianxi", "Cai", role = "aut")
+    )
+Description: Analyzing Survival Data from Case-Cohort Studies with Perturbation Resampling. 
+URL: https://github.com/celehs/survCCH
+BugReports: https://github.com/celehs/survCCH/issues
+License: GPL-3
+Encoding: UTF-8
+RoxygenNote: 6.1.1
+Imports:
+    survival
+Suggests: knitr
+VignetteBuilder: knitr
+LazyData: true
