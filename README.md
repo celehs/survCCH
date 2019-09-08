@@ -6,7 +6,7 @@ Install development version from GitHub:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("/survCCH")
+devtools::install_github("celehs/survCCH")
 ```
 
 ## References
