@@ -6,7 +6,7 @@ Install development version from GitHub:
 
 ```r
 # install.packages("devtools")
-devtools::install_github("parse-health/survCCH")
+devtools::install_github("/survCCH")
 ```
 
 ## References
