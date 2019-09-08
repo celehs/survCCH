@@ -11,5 +11,5 @@ devtools::install_github("celehs/survCCH")
 
 ## References
 
-- Payne, R., Yang, M., Zheng, Y., Jensen, M. K., & Cai, T. (2016). Robust risk prediction with biomarkers under two-phase stratified cohort design. Biometrics, 72(4), 1037–1045. <[doi:10.1111/biom.12515](https://www.doi.org/10.1111/biom.12515)>
+- R Payne, M Yang, Y Zheng, MK Jensen, T Cai. Robust risk prediction with biomarkers under two-phase stratified cohort design. _Biometrics_, 2016, 72(4):1037–1045. <[doi:10.1111/biom.12515](https://www.doi.org/10.1111/biom.12515)>
 
